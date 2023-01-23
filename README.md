@@ -5,6 +5,7 @@ This repository contains a hands-on lab for data engineering in Snowflake with S
 
 ## Preview Features
 Note: The following features/tools used in this lab are still in preview
+* [Visual Studio Code](https://code.visualstudio.com/download) 
 * [Snowflake Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=snowflake.snowflake-vsc)
 * [snowcli](https://github.com/Snowflake-Labs/snowcli)
 
